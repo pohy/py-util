@@ -12,8 +12,8 @@
     "typescript": "^5.1.6"
   },
   "scripts": {
-    "build": "tsup",
-    "dev": "tsup --watch"
+    "build": "tsc -b",
+    "dev": "tsc -b --watch"
   },
   "keywords": [
     "python",
