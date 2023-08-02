@@ -1,5 +1,6 @@
 {
   "name": "@pohy/py-util",
+  "private": false,
   "repository": "https://github.com/pohy/py-util",
   "version": "1.0.0",
   "description": "For when you need to work with string indices calculated in python. If the strings contain emojis, you'll know what I mean. 🙃",
