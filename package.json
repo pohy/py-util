@@ -7,6 +7,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "devDependencies": {
+    "@swc/core": "^1.3.73",
     "tsup": "^7.1.0",
     "typescript": "^5.1.6"
   },
