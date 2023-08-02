@@ -1,0 +1,19 @@
+{
+  "name": "@pohy/py-util",
+  "repository": "https://github.com/pohy/py-util",
+  "version": "1.0.0",
+  "description": "For when you need to work with string indices calculated in python. If the strings contain emojis, you'll know what I mean. 🙃",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "tsup": "^7.1.0",
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch"
+  },
+  "keywords": ["python", "string", "index", "emoji", "length"],
+  "author": "pohy",
+  "license": "MIT"
+}
